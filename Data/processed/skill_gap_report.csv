@@ -1,0 +1,2 @@
+job_title,company,match_score,skill_match_percentage,matched_skills,missing_skills
+Senior Machine Learning Engineer,Tiger Analytics,63.54545243752161,28.57142857142857,"data science, machine learning","azure, communication, docker, kubernetes, leadership"
